@@ -1,0 +1,23 @@
+.cont{
+    margin-top:120px;
+    margin-left:550px;
+    width:25%;
+    padding:10px;
+    background-color:lightgray;
+    justify-content:center;
+    align-items:center;
+    border-radius:10px;
+}
+.hdbk{
+    text-align:center;
+    margin-top:50px;
+}
+h2{
+    text-align:center;
+    background-color:white;
+    margin:none;
+}
+h4{
+    text-align:center;
+    font-size:20px;
+}

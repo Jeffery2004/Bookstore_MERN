@@ -1,0 +1,35 @@
+.div{
+    background-color:lightgray;
+    width:280px;
+    height:370px;
+    margin-top:15%;
+    border-radius:12px;
+    margin-left:38%;
+    padding-left:60px;
+}
+.hd{
+    padding-top:20px;
+}
+.add{
+    margin-top:25px;
+    padding:10px;
+    border:none;
+    border-radius:5px;
+    transition:0.2s;
+}
+.form label{
+    font-size:20px;
+    margin-top:10px;
+}
+.form input{
+    padding:3px;
+    border:none;
+    margin-top:10px;
+    border-radius:7px;
+    margin-bottom:10px;
+    height:18px;
+}
+.add:hover{
+    cursor:pointer;
+    padding:14px;
+}

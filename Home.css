@@ -1,0 +1,37 @@
+table{
+    margin-left:20%;
+    margin-top:35px;
+    border:block;
+    border-width:20px;
+}
+th{
+    padding-right:80px;
+    font-size:25px;
+    font-family:italic;
+}
+td{
+    padding-right:80px;
+    padding-top:60px;
+    font-size:18px;
+}
+.inf,.ed,.del,.cre{
+    margin-right:20px;
+    text-decoration:none;
+    background-color:lightgray;
+    color:black;
+    padding:10px;
+    border-radius:5px;
+    transition:0.3s;
+}
+.inf:hover,.ed:hover,.del:hover,.cre:hover{
+    padding:15px;
+}
+.cre{
+    margin-left:150px;
+}
+p{
+    text-align:center;
+}
+.head{
+    margin-left:150px;
+}

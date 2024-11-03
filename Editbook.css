@@ -1,0 +1,33 @@
+.con{
+    margin-left:38%;
+    margin-top:160px;
+    padding-left:40px;
+    width:270px;
+    background-color:lightgray;
+    padding:60px;
+    border-radius:10px;
+}
+.con input{
+    padding:4px;
+    margin-top:10px;
+    border:none;
+    border-radius:3px;
+    margin-bottom:5px;
+    width:200px;
+}
+.con label{
+    font-size:20px;
+}
+.bt{
+    margin-top:20px;
+    padding:7px;
+    width:60px;
+    border:none;
+    border-radius:5px;
+    transition:0.2s;
+}
+.bt:hover{
+    cursor:pointer;
+    padding:9px;
+    width:70px;
+}
